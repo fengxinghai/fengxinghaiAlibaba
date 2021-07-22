@@ -1,0 +1,7 @@
+# Project exclude paths
+/example-common/target/
+/example-consumer/target/
+/example-gateway/target/
+/example-nacos-config/target/
+/example-provider/target/
+/example-providertwo/target/
