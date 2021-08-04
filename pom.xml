@@ -13,6 +13,7 @@
         <module>example-nacos-config</module>
         <module>example-rocketmq-consumer</module>
         <module>example-rocketmq-provider</module>
+        <module>example-mytestconfig</module>
     </modules>
 
     <parent>
